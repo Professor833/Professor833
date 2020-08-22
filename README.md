@@ -10,7 +10,20 @@
 
 <b>Social Media Links</b>
 
+
+<a href="https://www.linkedin.com/in/lalit-vavdara-6922751a1/">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />
+</a>
 <a href="https://www.instagram.com/lv_1601/">
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/Lalit83589760">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com/Lalit83589760">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="http://lalit-vavdara-1601.herokuapp.com/">
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
 </a>
 
