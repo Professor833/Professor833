@@ -25,7 +25,7 @@
 </a>      
 
 <a href="https://www.instagram.com/lv_1601/">
- <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ <img height="25" width="25" style="padding-right: 50px; padding-left: 50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>        
 
 <a href="https://twitter.com/Lalit83589760">
