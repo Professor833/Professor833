@@ -8,4 +8,7 @@
  📫 I'm looking to collabrate with new Developers and work on Interesting Projects. <br>
  ⚡ Fun fact: I love to Draw(You can follow me on insta to see them.🧐), Play Guitar.<br>
 
+<b>Social Media Links</b>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
