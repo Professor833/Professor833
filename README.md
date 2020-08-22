@@ -1,9 +1,6 @@
 ### Hi there, I am Lalit 👋
 <br>
 <br>
-<br>
-
-
 
  🔭 I’m currently working on improving my skills for Web Development. <br>
  🌱 I’m currently learning React. <br>
