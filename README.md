@@ -5,7 +5,7 @@
 
 
 
- 🔭 I’m currently working on improving my skills for Web Development.
+ 🔭 I’m currently working on improving my skills for Web Development. <br>
  🌱 I’m currently learning React.
  👯 I’m looking to collaborate on more and more Open-Source Projects.
  📫 I'm looking to collabrate with new Developers and work on Interesting Projects. 
