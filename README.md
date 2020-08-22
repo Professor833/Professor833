@@ -1,5 +1,4 @@
-### Hi there, I am Lalit 👋👨‍💻
-<br>
+### Hi there, I'm Lalit 👋👨‍💻
 
 <ul>
  <li>
@@ -23,17 +22,18 @@
 
 <a href="https://www.linkedin.com/in/lalit-vavdara-6922751a1/" style="margin-right:25px; margin-left:25px;">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>      
+
 <a href="https://www.instagram.com/lv_1601/">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>        
 
 <a href="https://twitter.com/Lalit83589760">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>     
 
 <a href="https://lalit-vavdara-1601.herokuapp.com/">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />
-</a>
+</a>     
 
 
