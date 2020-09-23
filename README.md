@@ -5,10 +5,10 @@
   🔭 I’m currently working on improving my skills for Web Development. 
  </li>
  <li>
- 🌱 I’m currently learning React. 
+ 🌱 I’m currently learning M.E.R.N Stack.  
  </li>
  <li>
- 👯 I’m looking to collaborate on more and more Open-Source Projects.
+ 👯 I’m looking to collaborate on some Open-Source Projects.
  </li>
  <li>
  📫 I'm looking to collabrate with new Developers and work on Interesting Projects. 
