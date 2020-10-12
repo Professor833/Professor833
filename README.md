@@ -11,7 +11,7 @@
  📫 I'm looking to collabrate with new Developers and work on Interesting Projects. 
  </li>
  <li>
- ⚡ Fun fact: I love to Draw(You can follow me on insta to see them.🧐), Play Guitar.
+ ⚡ Fun fact: I love to Draw🧐, Play Guitar.
  </li>
 </ul>
 
