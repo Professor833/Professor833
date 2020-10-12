@@ -2,10 +2,7 @@
 
 <ul>
  <li>
-  🔭 I’m currently working on improving my skills for Web Development. 
- </li>
- <li>
- 🌱 I’m currently learning M.E.R.N Stack.  
+  🔭 A Professional M.E.R.N stack Developer. 
  </li>
  <li>
  👯 I’m looking to collaborate on some Open-Source Projects.
