@@ -2,7 +2,10 @@
 
 <ul>
  <li>
-  🔭 A Professional M.E.R.N stack Developer. 
+  🔭 A Professional Node js Backend Developer. 
+ </li>
+ <li>
+  🔭 Also a Full Stack python web Developer.
  </li>
  <li>
  👯 I’m looking to collaborate on some Open-Source Projects.
