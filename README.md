@@ -32,8 +32,5 @@
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />    
 </a>     
 
-<a href="https://lalit-vavdara-1601.herokuapp.com/">
- <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleearth.svg" />   
-</a>     
 
 
