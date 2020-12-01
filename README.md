@@ -4,7 +4,9 @@
 ![location](https://img.shields.io/badge/Live%20in-India-green)
 ![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/13148406?color=green)
 <br>
+
 ### Tech and Tools Preference
+
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java Script" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" width="35px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -20,6 +22,7 @@
 <img align="left" width="35px" alt="mongobb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"><br>
 <br>
 <br>
+
 ```python
 def about_myself():
     myself = {
@@ -39,7 +42,9 @@ def about_myself():
 print(about_myself())
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Professor833">
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Professor833">
 
 <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 
@@ -50,9 +55,10 @@ print(about_myself())
 </a>
 
 <a href="https://www.instagram.com/lv_1601/" style="padding-right:15px;">
- <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   
+ <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://twitter.com/Lalit83589760">
- <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />    
+ <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
