@@ -48,7 +48,7 @@ print(about_myself())
 
 <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
 
-####Connect with me on :
+<h3>Connect with me on :</h3>
 
 <a href="https://www.linkedin.com/in/lalit-vavdara-6922751a1/" style="padding-right:15px; padding-left:25px;">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
