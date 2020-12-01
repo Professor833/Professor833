@@ -1,36 +1,63 @@
-### Hi there, I'm Lalit 👋👨‍💻
+### Hello <img src="https://media1.tenor.com/images/76d12d260b42b5d6095e254d9936e930/tenor.gif" height="28px"> I'm Lalit!
 
-<ul>
- <li>
-  🔭 A Professional Node js Backend Developer. 
- </li>
- <li>
-  🔭 Also a Full Stack python web Developer.
- </li>
- <li>
- 👯 I’m looking to collaborate on some Open-Source Projects.
- </li>
- <li>
- 📫 I'm looking to collabrate with new Developers and work on Interesting Projects. 
- </li>
- <li>
- ⚡ Fun fact: I love to Draw🧐, Play Guitar.
- </li>
-</ul>
+![Age](https://img.shields.io/badge/Age-20-green)
+![location](https://img.shields.io/badge/Live%20in-India-green)
+![stackoverflow-reputation](https://img.shields.io/stackexchange/stackoverflow/r/13148406?color=green)
 
-<b>Social Media Links</b>
+### Tech and Tools Preference
 
-<a href="https://www.linkedin.com/in/lalit-vavdara-6922751a1/" style="padding-right:25px; padding-left:25px;">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Java Script" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+
+<img width="35px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Node Js" width="35px" src="https://img.icons8.com/color/344/nodejs.png" />
+<img align="left" width="35px" alt="firebase" src="https://unpkg.com/simple-icons@v4/icons/firebase.svg" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Git Hub" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="My SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img width="35px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img width="35px" alt="mongobb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+
+<br>
+<br>
+
+```python
+def about_myself():
+    myself = {
+        "name": "Lalit Vavdara",
+        "age": 20,
+        "pronouns": "he/him",
+        "code": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "NodeJs",
+            "Learning more Stuff too!"
+        ]
+    }
+    return myself
+
+print(about_myself())
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Professor833">
+
+<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
+
+####Connect with me on :
+
+<a href="https://www.linkedin.com/in/lalit-vavdara-6922751a1/" style="padding-right:15px; padding-left:25px;">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>      
+</a>
 
-<a href="https://www.instagram.com/lv_1601/">
+<a href="https://www.instagram.com/lv_1601/" style="padding-right:15px;">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />   
-</a>        
+</a>
 
 <a href="https://twitter.com/Lalit83589760">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />    
-</a>     
-
-
-
+</a>
