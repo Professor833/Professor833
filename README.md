@@ -2,7 +2,7 @@
 
 ![Age](https://img.shields.io/badge/Age-20-green)
 ![location](https://img.shields.io/badge/Live%20in-India-green)
-![stackoverflow-reputation](https://img.shields.io/stackexchange/stackoverflow/r/13148406?color=green)
+![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/13148406?color=green)
 
 ### Tech and Tools Preference
 
