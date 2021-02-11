@@ -1,7 +1,7 @@
 ### Hello <img src="https://media1.tenor.com/images/76d12d260b42b5d6095e254d9936e930/tenor.gif" height="28px"> I'm Lalit!
 
 ![Age](https://img.shields.io/badge/Age-20-green)
-![location](https://img.shields.io/badge/Live%20in-India-green)
+![location](https://img.shields.io/badge/Lives%20in-India-green)
 ![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/13148406?color=green)
 
 <h3>Tech and Tools Preference</h3>
