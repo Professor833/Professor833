@@ -63,6 +63,10 @@ print(about_myself())
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://dev.to/professor833">
+ <img height="25" width="25" src="https://img.icons8.com/windows/32/000000/blog-logo.png"/>
+</a>
+
 <a href="https://www.instagram.com/lv_1601/" style="padding-right:15px;">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -70,4 +74,6 @@ print(about_myself())
 <a href="https://twitter.com/Lalit83589760">
  <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+
 
