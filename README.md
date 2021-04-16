@@ -1,6 +1,6 @@
 ### Hello <img src="https://media1.tenor.com/images/76d12d260b42b5d6095e254d9936e930/tenor.gif" height="28px"> I'm Lalit!
 
-### Check out my ![Portfolio](https://www.lalitvavdara.me/) to know more about me.
+### Check out my [I'm an inline-style link with title](https://www.google.com "Google's Homepage") to know more about me.
 
 ![Age](https://img.shields.io/badge/Age-20-green)
 ![location](https://img.shields.io/badge/Lives%20in-India-green)
