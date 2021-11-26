@@ -1,4 +1,4 @@
-![Banner Image](https://imgur.com/tobX7Pp.png)
+![Banner Image](https://imgur.com/d88Gw93.png)
 
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm a full stack developer 👨🏻‍💻 from India who loves to create for the web 🌐.</h3>
 
