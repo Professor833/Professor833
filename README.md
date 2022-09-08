@@ -21,7 +21,7 @@
 
 -----
 
-<p align="center">An avid and passionate full stack web developer specializing in Python(Django) & <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using while keeping the website performant and the code clean. Up for freelance web development work and collaborating on exciting projects.</p>
+<p align="center">An avid and passionate full stack web developer specializing in Python(Django) & <b>MERN stack</b>. I love to build and design websites which the end user would enjoy using, which also scales well while keeping the website performant and the code clean. Up for working on technically chanllanging & exciting projects.</p>
 
 ## ⚡ Stuff I Know
 
