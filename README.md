@@ -58,7 +58,6 @@
 
 ## 🤔 Stuff To Explore
       
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![AWS Lambdada](https://img.shields.io/badge/-Lambda-232F3E?style=flat-square&logo=amazon-aws)
