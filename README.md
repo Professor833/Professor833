@@ -96,4 +96,4 @@
 </details>
 
 
-<h3 align="center">Show some ❤️ by starring some of my repositories.</h3>
+<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
